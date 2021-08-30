@@ -1,4 +1,4 @@
-<h1 align="center"><a href="#"><img align="center" width="50%" height="30%"  src="![evgeniy-artsebasov-developer-icon](https://user-images.githubusercontent.com/77897161/131362046-e3d32281-7e77-4582-b3b4-af3822fd37b7.png)" height="175px"/></a></h1>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Theshan </h1>
 <h3 align="center">AKA h3$h.</h3>
