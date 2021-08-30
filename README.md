@@ -66,7 +66,7 @@ BTW,
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=zac4sick">
+    <img src="https://komarev.com/ghpvc/?username=hesh-git">
 </a>
-<a href="https://github.com/zac4sick?tab=followers"><img src="https://img.shields.io/github/followers/zac4sick?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/hesh-git?tab=followers"><img src="https://img.shields.io/github/followers/zac4sick?label=Followers&style=social" alt="GitHub Badge"></a>
 
