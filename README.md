@@ -68,5 +68,5 @@ BTW,
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=hesh-git">
 </a>
-<a href="https://github.com/hesh-git?tab=followers"><img src="https://img.shields.io/github/followers/zac4sick?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/hesh-git?tab=followers"><img src="https://img.shields.io/github/followers/hesh-git?label=Followers&style=social" alt="GitHub Badge"></a>
 
