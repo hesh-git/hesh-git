@@ -10,7 +10,7 @@ BTW,
 
 - 🐱‍💻 I’m a Programmer / Computer Science Undergrad.
 - 🕊  Currently learning everything
-- 👯 Looking to collaborate with porjects
+- 👯 Looking to collaborate with projects
 - 👌  Wanna know about ma repos,
 - 📫 Shoot me a message, If interested theshan.19@cse.mrt.ac.lk
 
